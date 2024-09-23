@@ -1,0 +1,22 @@
+p {
+    text-align: center; color: black;
+    }
+    #para1 {
+    text-align: center; color: black;
+    }
+    .center {
+    text-align: center; color: black;
+}
+
+/*Define a class by placing '.' in front of the 
+class name and then the class contents in brackets*/
+
+body {
+    background: white;
+    font-family:"Times New Roman", Times, serif;
+    margin: 40px;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
