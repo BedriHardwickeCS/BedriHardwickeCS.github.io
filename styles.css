@@ -1,11 +1,11 @@
 p {
-    text-align: center; color: black;
+    text-align: left; color: black;
     }
     #para1 {
-    text-align: center; color: black;
+    text-align: left; color: black;
     }
     .center {
-    text-align: center; color: black;
+    text-align: left; color: black;
 }
 
 /*Define a class by placing '.' in front of the 
