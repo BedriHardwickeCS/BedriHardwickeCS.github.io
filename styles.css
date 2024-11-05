@@ -15,7 +15,7 @@ body {
     background: white;
     font-family:"Times New Roman", Times, serif;
     margin: 40px;
-    img {
+    ProfileImage.png {
       border-radius: 50%;
     }
 }
