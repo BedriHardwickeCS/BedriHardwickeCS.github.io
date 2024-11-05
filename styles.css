@@ -12,12 +12,9 @@ p {
 class name and then the class contents in brackets*/
 
 body {
-    background: white;
+    background: ProfileImage.png;
     font-family:"Times New Roman", Times, serif;
     margin: 40px;
-    ProfileImage.png {
-      border-radius: 50%;
-    }
 }
 h1 {
     text-align: center;
