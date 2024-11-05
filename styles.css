@@ -12,7 +12,7 @@ p {
 class name and then the class contents in brackets*/
 
 body {
-    background: ProfileImage.png;
+    background: white;
     font-family:"Times New Roman", Times, serif;
     margin: 40px;
 }
